@@ -1,0 +1,12 @@
+D:\FinalProject\AttendanceSystem\AttendanceSystem.Domain\bin\Debug\net6.0\AttendanceSystem.Domain.deps.json
+D:\FinalProject\AttendanceSystem\AttendanceSystem.Domain\bin\Debug\net6.0\AttendanceSystem.Domain.dll
+D:\FinalProject\AttendanceSystem\AttendanceSystem.Domain\bin\Debug\net6.0\AttendanceSystem.Domain.pdb
+D:\FinalProject\AttendanceSystem\AttendanceSystem.Domain\obj\Debug\net6.0\AttendanceSystem.Domain.csproj.AssemblyReference.cache
+D:\FinalProject\AttendanceSystem\AttendanceSystem.Domain\obj\Debug\net6.0\AttendanceSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProject\AttendanceSystem\AttendanceSystem.Domain\obj\Debug\net6.0\AttendanceSystem.Domain.AssemblyInfoInputs.cache
+D:\FinalProject\AttendanceSystem\AttendanceSystem.Domain\obj\Debug\net6.0\AttendanceSystem.Domain.AssemblyInfo.cs
+D:\FinalProject\AttendanceSystem\AttendanceSystem.Domain\obj\Debug\net6.0\AttendanceSystem.Domain.csproj.CoreCompileInputs.cache
+D:\FinalProject\AttendanceSystem\AttendanceSystem.Domain\obj\Debug\net6.0\AttendanceSystem.Domain.dll
+D:\FinalProject\AttendanceSystem\AttendanceSystem.Domain\obj\Debug\net6.0\refint\AttendanceSystem.Domain.dll
+D:\FinalProject\AttendanceSystem\AttendanceSystem.Domain\obj\Debug\net6.0\AttendanceSystem.Domain.pdb
+D:\FinalProject\AttendanceSystem\AttendanceSystem.Domain\obj\Debug\net6.0\ref\AttendanceSystem.Domain.dll

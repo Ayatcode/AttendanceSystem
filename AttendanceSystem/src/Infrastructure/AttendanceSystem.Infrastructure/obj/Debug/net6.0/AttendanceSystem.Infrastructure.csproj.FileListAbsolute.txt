@@ -1,0 +1,17 @@
+D:\FinalProject\AttendanceSystem\src\Infrastructure\AttendanceSystem.Infrastructure\bin\Debug\net6.0\AttendanceSystem.Infrastructure.deps.json
+D:\FinalProject\AttendanceSystem\src\Infrastructure\AttendanceSystem.Infrastructure\bin\Debug\net6.0\AttendanceSystem.Infrastructure.dll
+D:\FinalProject\AttendanceSystem\src\Infrastructure\AttendanceSystem.Infrastructure\bin\Debug\net6.0\AttendanceSystem.Infrastructure.pdb
+D:\FinalProject\AttendanceSystem\src\Infrastructure\AttendanceSystem.Infrastructure\obj\Debug\net6.0\AttendanceSystem.Infrastructure.csproj.AssemblyReference.cache
+D:\FinalProject\AttendanceSystem\src\Infrastructure\AttendanceSystem.Infrastructure\obj\Debug\net6.0\AttendanceSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProject\AttendanceSystem\src\Infrastructure\AttendanceSystem.Infrastructure\obj\Debug\net6.0\AttendanceSystem.Infrastructure.AssemblyInfoInputs.cache
+D:\FinalProject\AttendanceSystem\src\Infrastructure\AttendanceSystem.Infrastructure\obj\Debug\net6.0\AttendanceSystem.Infrastructure.AssemblyInfo.cs
+D:\FinalProject\AttendanceSystem\src\Infrastructure\AttendanceSystem.Infrastructure\obj\Debug\net6.0\AttendanceSystem.Infrastructure.csproj.CoreCompileInputs.cache
+D:\FinalProject\AttendanceSystem\src\Infrastructure\AttendanceSystem.Infrastructure\obj\Debug\net6.0\AttendanceSystem.Infrastructure.dll
+D:\FinalProject\AttendanceSystem\src\Infrastructure\AttendanceSystem.Infrastructure\obj\Debug\net6.0\refint\AttendanceSystem.Infrastructure.dll
+D:\FinalProject\AttendanceSystem\src\Infrastructure\AttendanceSystem.Infrastructure\obj\Debug\net6.0\AttendanceSystem.Infrastructure.pdb
+D:\FinalProject\AttendanceSystem\src\Infrastructure\AttendanceSystem.Infrastructure\obj\Debug\net6.0\ref\AttendanceSystem.Infrastructure.dll
+D:\FinalProject\AttendanceSystem\src\Infrastructure\AttendanceSystem.Infrastructure\bin\Debug\net6.0\AttendanceSystem.Application.dll
+D:\FinalProject\AttendanceSystem\src\Infrastructure\AttendanceSystem.Infrastructure\bin\Debug\net6.0\AttendanceSystem.Domain.dll
+D:\FinalProject\AttendanceSystem\src\Infrastructure\AttendanceSystem.Infrastructure\bin\Debug\net6.0\AttendanceSystem.Application.pdb
+D:\FinalProject\AttendanceSystem\src\Infrastructure\AttendanceSystem.Infrastructure\bin\Debug\net6.0\AttendanceSystem.Domain.pdb
+D:\FinalProject\AttendanceSystem\src\Infrastructure\AttendanceSystem.Infrastructure\obj\Debug\net6.0\AttendanceSystem.Infrastructure.csproj.CopyComplete

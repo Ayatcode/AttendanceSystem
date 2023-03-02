@@ -1,0 +1,15 @@
+D:\FinalProject\AttendanceSystem\src\Core\AttendanceSystem.Application\bin\Debug\net6.0\AttendanceSystem.Application.deps.json
+D:\FinalProject\AttendanceSystem\src\Core\AttendanceSystem.Application\bin\Debug\net6.0\AttendanceSystem.Application.dll
+D:\FinalProject\AttendanceSystem\src\Core\AttendanceSystem.Application\bin\Debug\net6.0\AttendanceSystem.Application.pdb
+D:\FinalProject\AttendanceSystem\src\Core\AttendanceSystem.Application\bin\Debug\net6.0\AttendanceSystem.Domain.dll
+D:\FinalProject\AttendanceSystem\src\Core\AttendanceSystem.Application\bin\Debug\net6.0\AttendanceSystem.Domain.pdb
+D:\FinalProject\AttendanceSystem\src\Core\AttendanceSystem.Application\obj\Debug\net6.0\AttendanceSystem.Application.csproj.AssemblyReference.cache
+D:\FinalProject\AttendanceSystem\src\Core\AttendanceSystem.Application\obj\Debug\net6.0\AttendanceSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProject\AttendanceSystem\src\Core\AttendanceSystem.Application\obj\Debug\net6.0\AttendanceSystem.Application.AssemblyInfoInputs.cache
+D:\FinalProject\AttendanceSystem\src\Core\AttendanceSystem.Application\obj\Debug\net6.0\AttendanceSystem.Application.AssemblyInfo.cs
+D:\FinalProject\AttendanceSystem\src\Core\AttendanceSystem.Application\obj\Debug\net6.0\AttendanceSystem.Application.csproj.CoreCompileInputs.cache
+D:\FinalProject\AttendanceSystem\src\Core\AttendanceSystem.Application\obj\Debug\net6.0\AttendanceSystem.Application.csproj.CopyComplete
+D:\FinalProject\AttendanceSystem\src\Core\AttendanceSystem.Application\obj\Debug\net6.0\AttendanceSystem.Application.dll
+D:\FinalProject\AttendanceSystem\src\Core\AttendanceSystem.Application\obj\Debug\net6.0\refint\AttendanceSystem.Application.dll
+D:\FinalProject\AttendanceSystem\src\Core\AttendanceSystem.Application\obj\Debug\net6.0\AttendanceSystem.Application.pdb
+D:\FinalProject\AttendanceSystem\src\Core\AttendanceSystem.Application\obj\Debug\net6.0\ref\AttendanceSystem.Application.dll
